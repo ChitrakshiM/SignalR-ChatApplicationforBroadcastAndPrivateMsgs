@@ -1,0 +1,56 @@
+C:\Users\chitrakshi.malhotra\source\repos\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.2\ChatAPI.deps.json
+C:\Users\chitrakshi.malhotra\source\repos\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.2\ChatAPI.runtimeconfig.json
+C:\Users\chitrakshi.malhotra\source\repos\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.2\ChatAPI.runtimeconfig.dev.json
+C:\Users\chitrakshi.malhotra\source\repos\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.2\ChatAPI.dll
+C:\Users\chitrakshi.malhotra\source\repos\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.2\ChatAPI.pdb
+C:\Users\chitrakshi.malhotra\source\repos\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.csprojAssemblyReference.cache
+C:\Users\chitrakshi.malhotra\source\repos\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.csproj.CoreCompileInputs.cache
+C:\Users\chitrakshi.malhotra\source\repos\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.RazorAssemblyInfo.cache
+C:\Users\chitrakshi.malhotra\source\repos\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.RazorAssemblyInfo.cs
+C:\Users\chitrakshi.malhotra\source\repos\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.AssemblyInfoInputs.cache
+C:\Users\chitrakshi.malhotra\source\repos\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.AssemblyInfo.cs
+C:\Users\chitrakshi.malhotra\source\repos\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.RazorTargetAssemblyInfo.cache
+C:\Users\chitrakshi.malhotra\source\repos\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.dll
+C:\Users\chitrakshi.malhotra\source\repos\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.pdb
+D:\Learning\SignalR\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.2\ChatAPI.deps.json
+D:\Learning\SignalR\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.2\ChatAPI.runtimeconfig.json
+D:\Learning\SignalR\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.2\ChatAPI.runtimeconfig.dev.json
+D:\Learning\SignalR\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.2\ChatAPI.dll
+D:\Learning\SignalR\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.2\ChatAPI.pdb
+D:\Learning\SignalR\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.csproj.CoreCompileInputs.cache
+D:\Learning\SignalR\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.RazorAssemblyInfo.cache
+D:\Learning\SignalR\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.RazorAssemblyInfo.cs
+D:\Learning\SignalR\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.AssemblyInfoInputs.cache
+D:\Learning\SignalR\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.AssemblyInfo.cs
+D:\Learning\SignalR\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.RazorTargetAssemblyInfo.cache
+D:\Learning\SignalR\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.dll
+D:\Learning\SignalR\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.pdb
+D:\Learning\SignalR\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.csprojAssemblyReference.cache
+D:\Learning\SignalR\SingleUser\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.2\ChatAPI.deps.json
+D:\Learning\SignalR\SingleUser\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.2\ChatAPI.runtimeconfig.json
+D:\Learning\SignalR\SingleUser\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.2\ChatAPI.runtimeconfig.dev.json
+D:\Learning\SignalR\SingleUser\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.2\ChatAPI.dll
+D:\Learning\SignalR\SingleUser\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.2\ChatAPI.pdb
+D:\Learning\SignalR\SingleUser\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.csprojAssemblyReference.cache
+D:\Learning\SignalR\SingleUser\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.csproj.CoreCompileInputs.cache
+D:\Learning\SignalR\SingleUser\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.RazorAssemblyInfo.cache
+D:\Learning\SignalR\SingleUser\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.RazorAssemblyInfo.cs
+D:\Learning\SignalR\SingleUser\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.AssemblyInfoInputs.cache
+D:\Learning\SignalR\SingleUser\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.AssemblyInfo.cs
+D:\Learning\SignalR\SingleUser\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.RazorTargetAssemblyInfo.cache
+D:\Learning\SignalR\SingleUser\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.dll
+D:\Learning\SignalR\SingleUser\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.pdb
+C:\My Data\Learning\SignalR Application\Backend - .Net Core API\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.2\ChatAPI.deps.json
+C:\My Data\Learning\SignalR Application\Backend - .Net Core API\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.2\ChatAPI.runtimeconfig.json
+C:\My Data\Learning\SignalR Application\Backend - .Net Core API\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.2\ChatAPI.runtimeconfig.dev.json
+C:\My Data\Learning\SignalR Application\Backend - .Net Core API\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.2\ChatAPI.dll
+C:\My Data\Learning\SignalR Application\Backend - .Net Core API\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.2\ChatAPI.pdb
+C:\My Data\Learning\SignalR Application\Backend - .Net Core API\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.csprojAssemblyReference.cache
+C:\My Data\Learning\SignalR Application\Backend - .Net Core API\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.csproj.CoreCompileInputs.cache
+C:\My Data\Learning\SignalR Application\Backend - .Net Core API\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.RazorAssemblyInfo.cache
+C:\My Data\Learning\SignalR Application\Backend - .Net Core API\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.RazorAssemblyInfo.cs
+C:\My Data\Learning\SignalR Application\Backend - .Net Core API\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.AssemblyInfoInputs.cache
+C:\My Data\Learning\SignalR Application\Backend - .Net Core API\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.AssemblyInfo.cs
+C:\My Data\Learning\SignalR Application\Backend - .Net Core API\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.RazorTargetAssemblyInfo.cache
+C:\My Data\Learning\SignalR Application\Backend - .Net Core API\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.dll
+C:\My Data\Learning\SignalR Application\Backend - .Net Core API\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.2\ChatAPI.pdb
