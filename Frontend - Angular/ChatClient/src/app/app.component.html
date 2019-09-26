@@ -1,0 +1,38 @@
+<div id="main-container" style="text-align:center">
+     
+  <div class="container">
+    <h2>Send message to all users</h2>
+     <div>
+        <label for="message">Message</label>
+        <input type="text" id="message" name="message" [(ngModel)]="message" required>
+      </div>
+      <div>
+        <button type="button" id="btnSendMsg" (click)="sendMessage()">Send to all users</button>
+      </div> 
+  </div>
+
+  <div class="container" *ngIf="messages.length > 0">
+    <div *ngFor="let message of messages">
+      <span>{{message}}</span>
+    </div>
+  </div><br><br><br> 
+
+    <div class="container">
+      <div>
+          <h2>Send message to user with current Connection Id</h2>
+            <div>
+                <label for="userMessage">Message </label>
+                <input type="text" id="userMessage" name="userMessage" [(ngModel)]="userMessage" required>
+            </div>
+            <div>
+              <button type="button" id="btnUserMsg" (click)="sendUserMsg()">Send to single user</button>
+            </div>          
+      </div>
+      <div class="container" *ngIf="userMessages.length > 0">
+        <div *ngFor="let userMessage of userMessages">
+          <span>{{userMessage}}</span>
+        </div>
+    </div> 
+  </div>
+
+  
